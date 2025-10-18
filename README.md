@@ -10,3 +10,4 @@ The Storage Account is automatically provisioned, and its connection string is s
 - Automatic creation of Storage Account and Key Vault
 - Connection string stored securely as a Key Vault secret
 - Outputs displayed for easy reference (Storage Account Name, ID, Connection String, Key Vault Name)
+- Deployed using Azure Cloud Shell
