@@ -33,6 +33,7 @@ resource kv 'Microsoft.KeyVault/vaults@2024-11-01' = {
       family:'A'
     }
     tenantId:tenantId
+    enableRbacAuthorization:true
   }
 }
 
